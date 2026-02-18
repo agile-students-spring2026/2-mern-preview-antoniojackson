@@ -1,0 +1,21 @@
+.AboutUs-content {
+  text-align: left;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.AboutUs-photo {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.AboutUs-text p {
+  margin-bottom: 1rem;
+}
+
+.AboutUs-content .error {
+  color: #c00;
+}
