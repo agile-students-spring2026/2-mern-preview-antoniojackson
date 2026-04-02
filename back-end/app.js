@@ -30,7 +30,8 @@ app.get('/about', (req, res) => {
       "Outside of classes, I work full-time as a software engineer at a sports AI startup--RotoBot AI. I've worked across the full stack, but most of my focus is on backend and data work. I like working on systems, pipelines, and the parts of a product that keep everything running smoothly. Most of my time is split between school, work, training, and side projects, and I'm pretty focused on building skills and setting myself up well after graduation.",
       "With my free time, I like to keep things pretty balanced. I enjoy reading, and right now I'm reading The Correspondent by Virginia Evans (honestly a 10/10, highly recommend). My favorite book is East of Eden by John Steinbeck, which is also a 10/10 and one of those books everyone should read at least once. I also spend a lot of time in the gym—lifting, running, and training MMA. I compete a couple of times a year, which keeps me disciplined and gives me something concrete to work toward. Lately, I've also been experimenting more with cooking and trying new recipes—some turn out great, some… not so much (chicken does NOT belong in brownies).",
     ],
-    imageUrl: 'https://drive.google.com/thumbnail?id=1evHLNhlxrrPpomEN5JPRqjVXq-871O2q&sz=w400',
+    imageUrl:
+      'https://lh3.googleusercontent.com/d/1evHLNhlxrrPpomEN5JPRqjVXq-871O2q=w400',
   })
 })
 

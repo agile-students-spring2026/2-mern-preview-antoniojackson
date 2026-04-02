@@ -32,7 +32,12 @@ const AboutUs = () => {
       <h1>About Us</h1>
       <div className="AboutUs-content">
         {imageUrl && (
-          <img src={imageUrl} alt="About us" className="AboutUs-photo" />
+          <img
+            src={imageUrl}
+            alt="About us"
+            className="AboutUs-photo"
+            referrerPolicy="no-referrer"
+          />
         )}
         <div className="AboutUs-text">
           {paragraphs && paragraphs.map((p, i) => <p key={i}>{p}</p>)}
